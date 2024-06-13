@@ -1,0 +1,32 @@
+.slider {
+    position: relative; /* Context for absolute positioning */
+    width: 100%; /* Slider takes full width */
+    overflow: hidden; /* Prevents any overflow (e.g., buttons) from causing scrollbars */
+}
+
+.slider-img {
+    width: 100%;
+    max-height: 500px; /* Adjust based on your requirement */
+    object-fit: cover; /* This will cover the area, potentially cropping the image */
+    display: block;
+}
+
+.slide-btn {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust positioning to truly center */
+    z-index: 10; /* Ensure buttons are above the image */
+    background-color: rgba(0,0,0,0.5); /* Semi-transparent background */
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px; /* Adjust size as needed */
+}
+
+.prev-btn {
+    left: 0; /* Align to the left side */
+}
+
+.next-btn {
+    right: 0; /* Align to the right side */
+}

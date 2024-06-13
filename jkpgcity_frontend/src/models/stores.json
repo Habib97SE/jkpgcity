@@ -1,0 +1,906 @@
+[
+  {
+    "name": "Åhlens",
+    "url": "ahlens.se/varuhus/jonkoping?utm_source=google&utm_medium=organic&utm_campaign=business_profile&utm_content=website_link",
+    "district": "Öster",
+    "type": "department store",
+    "logo": "https://ahlens.a.bigcontent.io/v1/static/logo",
+    "phone": "036-34 00 00",
+    "email": "info@ahlens.se",
+    "address": "Östra Storgatan 24",
+    "bio": "Åhléns är ett av Sveriges mest älskade varuhus. Här hittar du allt du behöver för vardagen och festen. Välkommen till oss!"
+  },
+  {
+    "name": "Akademibokhandeln",
+    "url": "akademibokhandeln.se/butik/jonkoping-c",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://www.akademibokhandeln.se/static/img/logo.svg",
+    "phone": "036-34 00 00",
+    "email": "info@akademibokhandeln.se",
+    "address": "Östra Storgatan 28A",
+    "bio": "Akademibokhandeln är Sveriges största bokhandelskedja. Här hittar du böcker, skrivmaterial, kontorsmaterial och mycket mer."
+  },
+  {
+    "name": "Apoteket AB",
+    "url": "apoteket.se/apotek/apoteket-ostra-storgatan-jonkoping/",
+    "district": null,
+    "type": "pharmacy",
+    "logo": "https://d2d3l62ibcj1br.cloudfront.net/hyperin-portal/imageserver/tenants/99938/Apoteket.png",
+    "phone": "0771-450 450",
+    "email": "info@apoteket.se",
+    "address": "Östra Storgatan 21",
+    "bio": "Apoteket är Sveriges ledande apotekskedja. Här hittar du allt du behöver för din hälsa och ditt välbefinnande."
+  },
+  {
+    "name": "Apotek Hjärtat",
+    "url": "apotekhjartat.se/hitta-apotek-hjartat/jonkoping/apotek_hjartat_smedjegatan_2_jonkoping/",
+    "district": null,
+    "type": "pharmacy",
+    "logo": "https://brommablocks.se/wp-content/uploads/2019/09/apotek_240x177.png",
+    "phone": "036-34 00 00",
+    "email": "info@apotekhjartat.se",
+    "address": "Smedjegatan 2",
+    "bio": "Apotek Hjärtat är en av Sveriges största apotekskedjor. Här hittar du allt du behöver för din hälsa och ditt välbefinnande."
+  },
+  {
+    "name": "Ashur Brud & Fest - Skrädderi",
+    "url": "facebook.com/AshuraitaBrudFest/",
+    "district": null,
+    "type": "tailor",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGx49sjVxz1H-uZ9Qqh0GG537xoTelDP-sT1ty2EJvRQ&s",
+    "phone": "036-34 00 00",
+    "email": "info@ashur.se",
+    "address": "klostergatan 6b",
+    "bio": "Ashur Brud & Fest är en skrädderi som specialiserar sig på brudklänningar och festkläder. Här hittar du allt du behöver för din stora dag."
+  },
+  {
+    "name": "Asia livs, servicebutik",
+    "url": "facebook.com/profile.php?id=100051215441977",
+    "district": null,
+    "type": "grocery store",
+    "logo": "https://scontent.fbma3-1.fna.fbcdn.net/v/t39.30808-6/291748126_561182315598945_3079909764979694204_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OaSFawL6cu4Q7kNvgHC7r7x&_nc_ht=scontent.fbma3-1.fna&oh=00_AfB4HOcmq8vryy-saeZoGIkIw0G0bL5nZFot_z9VbIUpiA&oe=663FB5F3",
+    "phone": "036-34 00 00",
+    "email": "info@asien.se",
+    "address": "Östra storgatan 86",
+    "bio": "Asia livs är en servicebutik som specialiserar sig på asiatiska livsmedel och produkter. Här hittar du allt du behöver för din matlagning."
+  },
+  {
+    "name": "Ateljé Creativ i Jönköping/Finrummet",
+    "url": "/finrummet.net",
+    "district": "Väster",
+    "type": "art gallery",
+    "logo": "",
+    "phone": "036-34 00 00",
+    "email": "info@finrummet.net",
+    "address": "Östra Storgatan 28A",
+    "bio": "är en liten butik på Väster i Jönköping. Här kan du köpa presenter, smycken, hantverk, inredningsprylar m.m."
+  },
+  {
+    "name": "Ateljé KEG",
+    "url": "ateljekeg.se",
+    "district": "Öster",
+    "type": "art gallery",
+    "address": "Smedjegatan 28",
+    "bio": "I ateljén hittar Du gåvorna till någon alldeles speciell, kanske helt enkelt Dig själv. Här tillverkas smycken som går att köpa direkt i ateljén, eller så kan Du specialbeställa någonting personligt för just dig. Välj bland olika toner på pärlor, storlekar på diamanter och magiska färger på ädelstenar. Med ett nära samarbete med våra leverantörer så kan vi hitta rätt pärla eller sten för just dig",
+    "email": "info@atelkekeg.se",
+    "phone": "036-34 00 00"
+  },
+  {
+    "name": "Atlantis Dive College",
+    "url": "atlantis.se",
+    "district": "Väster",
+    "type": "store",
+    "logo": "https://www.atlantis.se/wp-content/themes/atlantis_dive_college/images/logotype.gif",
+    "phone": "036-34 00 00",
+    "email": "info@atlantis.se",
+    "address": "Nygatan 10",
+    "bio": "Atlantis Dive College är en dykbutik som specialiserar sig på dykutrustning och dykkurser. Här hittar du allt du behöver för din dykning."
+  },
+  {
+    "name": "Bagelle väskboutique",
+    "url": null,
+    "district": null,
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ",
+    "phone": "036-34 00 00",
+    "email": "info@bagelle.se",
+    "address": "Östra Storgatan 28A",
+    "bio": "Bagelle är en väskbutik som specialiserar sig på väskor och accessoarer. Här hittar du allt du behöver för din stil."
+  },
+  {
+    "name": "Balance Ljud och Bild",
+    "url": "balance.se",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "BGA Fotocenter",
+    "url": "bgafotocenter.se/jonkoping/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Bikupan",
+    "url": "bikupan.org",
+    "district": "Tändsticksområdet",
+    "type": "second hand store"
+  },
+  {
+    "name": "Blankdays",
+    "url": "https://blankdays.com/collections/all-products?gclid=CjwKCAjwov6hBhBsEiwAvrvN6EZZ1PsnlSJhnE7bmxINtl0Y0noU3rvCybdt217CGd3-bqMdx3mYRxoCK5EQAvD_BwE",
+    "district": "Tändsticksområdet",
+    "type": "store"
+  },
+  {
+    "name": "Boardlife",
+    "url": "boardlife.se",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Borgs skor",
+    "url": "borgsskor.se/kontakt",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Boutique Lykka",
+    "url": "boutiquelykka.se",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Broder Bläck",
+    "url": "facebook.com/broderblacktatuering/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Buketten",
+    "url": "instagram.com/bukettenjonkoping/?hl=sv",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Busfrö Nytt & Bytt",
+    "url": "busfro.se",
+    "district": "Öster",
+    "type": "second hand store"
+  },
+  {
+    "name": "Butiken Noga Utvalt",
+    "url": "butikenjkpg.se",
+    "district": "Atollen",
+    "type": "store"
+  },
+  {
+    "name": "Carlings",
+    "url": "carlings.com/sv/corporate/Butiker/sweden/58f/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Casa Souk",
+    "url": "casasouk.se",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Cervera",
+    "url": "cervera.se/hitta-butik/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Clas Ohlson",
+    "url": "clasohlson.com/se/store-finder?q=J%C3%B6nk%C3%B6ping,%20City&latitude=57.78252&longitude=14.17347&source=search",
+    "district": "Öster",
+    "type": "department store",
+    "logo": "https://about.clasohlson.com/globalassets/contact/clas-ohlson-logo500px-bluejpg-v2.jpg?mode=crop&quality=80&width=960&height=540"
+  },
+  {
+    "name": "Coop Atollen",
+    "url": "coop.se/butiker-erbjudanden/coop/coop-atollen-jonkoping/",
+    "district": "Atollen",
+    "type": "grocery store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxhqJ5TlamPmEhlmQ_NlXluN7YWivorGsrR0r31qpXg&s"
+  },
+  {
+    "name": "Coop Östra Torget",
+    "url": "coop.se/butiker-erbjudanden/coop/coop-ostra-torget/",
+    "district": "Öster",
+    "type": "grocery store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxhqJ5TlamPmEhlmQ_NlXluN7YWivorGsrR0r31qpXg&s"
+  },
+  {
+    "name": "Copenhagen Luxe",
+    "url": "https://copenhagenluxe.dk/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Day fotografi",
+    "url": "dayfotografi.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Dinos kemtvätt",
+    "url": "dinos.nu",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Din Sko",
+    "url": "dinsko.se/stores",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Direkt optik",
+    "url": "https://www.direktoptik.se/butiker/jonkoping/ostra-storgatan-29/",
+    "district": null,
+    "type": "Health care"
+  },
+  {
+    "name": "Dressman",
+    "url": "dressmann.com/no/bedriftssider/finn-butikk/Sweden/Dressmann_Jonkoping/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Elias Urmästare",
+    "url": "facebook.com/profile.php?id=100064073112753",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Engströms Urmakeri",
+    "url": "engstromsurmakeri.se",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Euroex",
+    "url": null,
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Evoke industry",
+    "url": null,
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Fabriken",
+    "url": "butikfabriken.se",
+    "district": "Atollen",
+    "type": "store"
+  },
+  {
+    "name": "Fiction Prescription",
+    "url": "https://www.instagram.com/fiction.prescription.jonkoping/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Forex Bank Väster",
+    "url": null,
+    "district": "Väster",
+    "type": "exchange office"
+  },
+  {
+    "name": "Foten",
+    "url": "https://www.foten.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Friendly Corner",
+    "url": "https://friendlycorner.se/butiken",
+    "district": "Tändsticksområdet",
+    "type": "store"
+  },
+  {
+    "name": "Galleri 701 ramcenter",
+    "url": "galleri701-ram.se",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Gant",
+    "url": "gant.se/stores?lat=57.78261370000001&long=14.1617876&postalCode=j%C3%B6nk%C3%B6ping&radius=10.0",
+    "district": "Atollen",
+    "type": "store"
+  },
+  {
+    "name": "Gåvan",
+    "url": "gavanjonkoping.se",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Gina Tricot",
+    "url": "ginatricot.com/se/find-store",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Go Banana",
+    "url": "gobanana.se",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Godis och Tobakshörnan",
+    "url": null,
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Golden athlete",
+    "url": "goldenathlete.se/sv/butiker-2",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Grmawit Store",
+    "url": "grmawit.com/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Guldsmedjan Snarberg",
+    "url": "guldsmedjan-snarberg.se",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Hälsokraft",
+    "url": "halsokraft.se/butiker?butik=503",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Hemköp",
+    "url": "hemkop.se/butik/4674",
+    "district": "Väster",
+    "type": "grocery store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzL76a1-QimBwpJVtTACYsq-VaU7DB5L5LpIEsY3ddQ&s"
+  },
+  {
+    "name": "Hemmakväll",
+    "url": "hemmakvall.se/hitta-butik/",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizDCKMmfQooS1dR082YlQNGcqHebUNivCG2oA5jAlGA&s"
+  },
+  {
+    "name": "Hemtex",
+    "url": "hemtex.se/hitta-butik/jonkoping",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyEJ3RbmR2uCWm40IsDPHEAnUJhDvqwgpDoLHo7M0u2Q&s"
+  },
+  {
+    "name": "Hi-fi Klubben",
+    "url": "hifiklubben.se/hitta-butik/jonkoping/?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH4w2ngSDzygBKQSqHVzCSFAplyrpByCMojT6dfo-Xnjcn7P9j_jBn8aAsD0EALw_wcB",
+    "district": "Väster",
+    "type": "store",
+    "logo": "https://cdn.worldvectorlogo.com/logos/hi-fi.svg"
+  },
+  {
+    "name": "H&M",
+    "url": "hm.com/sv_se/customer-service/shoppa-pa-hm/store-locator",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPiAoOeTPnUFSY0eW1McKrUuy-xZf5BWv01IjAO61toQ&s"
+  },
+  {
+    "name": "H&M Home",
+    "url": "hm.com/sv_se/customer-service/shoppa-pa-hm/store-locator",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://images.ctfassets.net/vy8x7x5kxmef/c46OHZS6ehlEqRx30bYjN/a86ded052e24aa83ce5e0886e638403b/hm_home_logo_800x800.jpg"
+  },
+  {
+    "name": "Indiska",
+    "url": "indiska.com/se/butiker",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Jeansshoppen",
+    "url": "jeansshopen.se/sv/kontakt",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "JL Sycenter",
+    "url": "jlsycenter.se/kontakta-oss/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Jönköpings antik och konsthandel",
+    "url": null,
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Jönköpings Cigrarrimport",
+    "url": "atg.se/jonkopingscigarrimport",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "KappAhl",
+    "url": "www.kappahl.com/sv-SE/kundservice/kundservice/hitta-butik/",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEoKO1uG50cEs8-97VMQyJt5_Bku6xd1XMKKRd3_SnA_-9bIAb31R-rvTxgdVPQdRmgQ&usqp=CAU"
+  },
+  {
+    "name": "Karin Lund Design",
+    "url": "facebook.com/karinlunddesign/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Katrin Bååths Ateljé",
+    "url": "https://katrinbaath.se/ateljen/",
+    "district": "Tändsticksområdet",
+    "type": "store"
+  },
+  {
+    "name": "Kicks",
+    "url": "kicks.se/butiker/jonkoping-smedjegatan",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://www.centersyd.se/media/5ysndci3/kicks-logo-2018-no-backgroud.png?width=640&height=640&mode=pad&bgcolor=fff"
+  },
+  {
+    "name": "Kjell & Company",
+    "url": "kjell.com/se/butiker/sodra-strandgatan-5",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lazm3Da5f1dTIQbTzCQpdWxShyImB1RvUYImCx5QAQ&s"
+  },
+  {
+    "name": "Klädscoopet",
+    "url": "facebook.com/Kladscoopet/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "KOiJ Konsthantverk",
+    "url": "koij.se",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Kristina Brud & Fest",
+    "url": "kristinabrud-fest.se",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Kronans Apotek Atollen",
+    "url": "apoteksinfo.nu/apotek/kronans_apotek_atollen_j%C3%B6nk%C3%B6ping-1415",
+    "district": "Atollen",
+    "type": "pharmacy",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYB10og4Ye-Ezy5gVxhiy1a_pyhZs0pKYgK1nWOoH6Ag&s"
+  },
+  {
+    "name": "Kvänum Kök",
+    "url": "kvanum.com/se/showrooms/jonkoping/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Lagerhaus",
+    "url": "lagerhaus.se/stores",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWO-bIeNRR995HJG2r23owAMTkdmvH4GJhKlVMkGd2Q&s"
+  },
+  {
+    "name": "Lavér Studio",
+    "url": "laverstudio.com/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Life Naturlig Hälsa",
+    "url": "https://www.lifebutiken.se/stores",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Lilla Violen",
+    "url": "lillaviolen.com/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Lindex",
+    "url": "lindex.com/se/hitta-din-butik?location=57.756066%2C14.188254&storeId=002&zoom=11",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuo-1Os5e9rJ5ZYWd_h1_d_9Gq3As8MVlTN6v26ttnQ&s"
+  },
+  {
+    "name": "Livspotential Kroppsterapi",
+    "url": "facebook.com/Livspotential/",
+    "district": null,
+    "type": "Health care"
+  },
+  {
+    "name": "Lloyd Tabing Art Gallery",
+    "url": "lloydtabingart.com/",
+    "district": "Tändsticksområdet",
+    "type": "art gallery"
+  },
+  {
+    "name": "Macforum",
+    "url": "macforum.se/butiker/forum-jonkoping",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "MarQet",
+    "url": "mq.se/butiker/?gclid=Cj0KCQjwteOaBhDuARIsADBqRejM-U3YQY9vh4F6gSXC2LnJWPVGKJ7CGfiCl1tYkREGUR37cTWMNcoaAjFGEALw_wcB",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Mimosa City",
+    "url": "mimosacity.se",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Moderna Smycken",
+    "url": "klockorochsmycken.se/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Naturkompaniet",
+    "url": "murphysbar.se/sv/",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://www.naturkompaniet.se/media/i/nk-7755-0.png"
+  },
+  {
+    "name": "Newhouse",
+    "url": "newhouse.se/newhouse/vara-butiker",
+    "district": "Atollen",
+    "type": "store"
+  },
+  {
+    "name": "New Yorker",
+    "url": "newyorker.de/se/stores/",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://logowik.com/content/uploads/images/new-yorker9039.logowik.com.webp"
+  },
+  {
+    "name": "Nilson Shoes",
+    "url": "dinsko.se/stores",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Noa Noa",
+    "url": "httpsfacebook.com/Noa-Noa-J%C3%B6nk%C3%B6ping-446212958766553/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Nordisk Möbelkonst",
+    "url": "nordiskmobelkonst.se/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Normal",
+    "url": "normal.se/hitta-butik/",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48aSKQXBLjkQA077PNFlHuFTIKiJVxghsOyTCJTNfYw&s"
+  },
+  {
+    "name": "Nya Musik",
+    "url": "nyamusik.se/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Once for girls",
+    "url": "oncestore.se/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Önska",
+    "url": "onska.se/vara-butiker/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Optiker Jahnke",
+    "url": "jahnke.se/",
+    "district": "Öster",
+    "type": "Health care"
+  },
+  {
+    "name": "Optiker Ullström",
+    "url": "optikerullstrom.se/",
+    "district": "Väster",
+    "type": "Health care"
+  },
+  {
+    "name": "Optik & Form",
+    "url": "optikochform.se/",
+    "district": null,
+    "type": "Health care"
+  },
+  {
+    "name": "Partyland",
+    "url": "partyland.party/butiker/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Planta Blommor",
+    "url": "plantablommor.se/?gclid=Cj0KCQjwteOaBhDuARIsADBqRehsWXSRNHjeGnPn_AyambJZLmNntWxsMnUkANIHdme0NoDtc2Xi8mgaAicoEALw_wcB#.Y2p1tuzMLPZ",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Pleasure erotic shop",
+    "url": "pleasureeroticshop.se/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "PMU Second Hand Jönköping City",
+    "url": "pmu.se/stores/jonkopingcity/",
+    "district": "Öster",
+    "type": "second hand store"
+  },
+  {
+    "name": "Pressbyrån Östra storgatan",
+    "url": "pressbyran.se/kontakt/hitta-butik/",
+    "district": "Öster",
+    "type": "store",
+    "logo": "https://storage.googleapis.com/pressbyran-media-bucket-prod/2023/04/Pressbyran_logotyp_2023-1024x205.png"
+  },
+  {
+    "name": "Pressbyrån Resecentrum",
+    "url": "pressbyran.se/kontakt/hitta-butik/",
+    "district": "Resecentrum",
+    "type": "store",
+    "logo": "https://storage.googleapis.com/pressbyran-media-bucket-prod/2023/04/Pressbyran_logotyp_2023-1024x205.png"
+  },
+  {
+    "name": "Pressbyrån Väster",
+    "url": "pressbyran.se/kontakt/hitta-butik/",
+    "district": "Väster",
+    "type": "store",
+    "logo": "https://storage.googleapis.com/pressbyran-media-bucket-prod/2023/04/Pressbyran_logotyp_2023-1024x205.png"
+  },
+  {
+    "name": "Rabalder",
+    "url": "publik.rabalder.se/butiker/joenkoeping.aspx",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Resehuset",
+    "url": "resehuset.se/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Rituals",
+    "url": "rituals.com/sv-se/store-detail?store=J%C3%B6nk%C3%B6ping-%C3%96stra-Storgatan",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Rizzo",
+    "url": "rizzo.se/stores/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Röda Korset Second Hand ",
+    "url": "rodakorset.se/vad-vi-gor/second-hand/butiker/roda-korset-secondhand-jonkoping/?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZvHzKjPuEJP8mzdhkuZYuEUoinVduEX8lEL6C0cnHq-JkG5o4XalYBoCwX8QAvD_BwE",
+    "district": "Väster",
+    "type": "second hand store"
+  },
+  {
+    "name": "Rundquist & Zälle",
+    "url": "rundquist-zalle.com",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Säfvers Tobak",
+    "url": "facebook.com/people/S%C3%A4fvers-tobak/100049803762896/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "SåIniNordeN",
+    "url": "saininorden.se/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Sandströms",
+    "url": "sandstroms.nu/butiker/sandstroms-jonkoping",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Sarabello",
+    "url": "facebook.com/people/SARABELLO/100054240470073/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Saumas sko & nyckelservice",
+    "url": "saumasskoochnyckelservice.heymo.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Sjöqvists skomakeri",
+    "url": "sjoqvistskomakeri.se/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Smålands Skinnmanufaktur",
+    "url": "smalandsskinnmanufaktur.se/",
+    "district": "Tändsticksområdet",
+    "type": "store"
+  },
+  {
+    "name": "Smarteyes",
+    "url": "smarteyes.se/butiker/jonkoping",
+    "district": null,
+    "type": "Health care"
+  },
+  {
+    "name": "Smycka Guld",
+    "url": "smycka.se/store/19",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Smycket",
+    "url": "smycketjonkoping.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Specsavers",
+    "url": "httpspecsavers.se/hitta-till-din-butik/jonkoping-city?utm_source=google&utm_medium=organic&utm_campaign=gmb-website&utm_content=jonkoping&y_source=1_NDA4Nzk2NjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "district": null,
+    "type": "Health care"
+  },
+  {
+    "name": "Stagelight",
+    "url": "stagelight.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Stil",
+    "url": "stilbutikerna.se/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Story",
+    "url": "storyjkpg.se",
+    "district": "Atollen",
+    "type": "store"
+  },
+  {
+    "name": "SunOff",
+    "url": "sunoff.se/butiker/jonkoping?gclid=CjwKCAjw8JKbBhBYEiwAs3sxNy3EnUFGceeFxyJN35fymdpsg5qEWUTPj6Sx0TbNoLdwp8E6AI-I5xoC45gQAvD_BwE",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Synoptik",
+    "url": "httpsynoptik.se/butiker/jonkoping/jonkoping-ostra-storgatan5?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=667-Jonkoping-Ostra-Storgatan-5",
+    "district": null,
+    "type": "Health care"
+  },
+  {
+    "name": "Synsam Jönköping Öster",
+    "url": "synsam.se/optiker/synsam-j%C3%B6nk%C3%B6ping-%C3%B6ster/128",
+    "district": "Öster",
+    "type": "Health care"
+  },
+  {
+    "name": "Synsam Jönköping Väster",
+    "url": "synsam.se/optiker/synsam-j%C3%B6nk%C3%B6ping-v%C3%A4ster/125",
+    "district": "Väster",
+    "type": "Health care"
+  },
+  {
+    "name": "Systembolaget",
+    "url": "systembolaget.se/butiker-ombud/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "The Body Shop",
+    "url": "thebodyshop.com/sv-se/store-details/jonkoping-smedjegatan/3801?utm_source=google&utm_medium=organic-local&utm_campaign=yext&utm_content=3801",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Ticket",
+    "url": "ticket.se/resebutiker/jonkoping.html",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Twilfit",
+    "url": "shop.change.com/sv-SE",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Ur & Penn",
+    "url": "uropenn.se/hitta-butik/",
+    "district": "Öster",
+    "type": "store"
+  },
+  {
+    "name": "Västanhem Butik",
+    "url": "vastanhem.se",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Västra klackbaren",
+    "url": null,
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Vätterbygden Ankarbergs Begravningsbyrå",
+    "url": "ankarbergs.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Vätterfisk",
+    "url": "xn--vtterfisk-v2a.se/",
+    "district": "Väster",
+    "type": "store"
+  },
+  {
+    "name": "Yxhage Lås och Larm",
+    "url": "yxhage.se/",
+    "district": null,
+    "type": "store"
+  },
+  {
+    "name": "Zephyr Tattoo Parlour",
+    "url": "zephyrtattoo.se",
+    "district": "Öster",
+    "type": "store"
+  }
+]

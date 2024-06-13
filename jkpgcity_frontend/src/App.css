@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    line-height: 1.6;
+}
+
+.primary-color {
+    color: #333 !important;
+}
+
+.btn-outline-info:hover {
+    color: #fff;
+}
+
+/* Remove the small caret next to dropdown element. */
+.dropdown-toggle::after {
+    display: none;
+}
+
+.nav-item:last-child {
+    margin-right: 30px;
+}

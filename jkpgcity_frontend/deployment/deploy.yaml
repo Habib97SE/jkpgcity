@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app-deployment
+  namespace: labb-v1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: my-nodejs-app
+  template:
+    metadata:
+      labels:
+        app: my-nodejs-app
+    spec:
+      containers:
+        - name: my-nodejs-app
+          env:
+            - name: DB_HOST
+              value: "172.17.0.1"
+          image: localhost:5000/my-nodejs-app:latest

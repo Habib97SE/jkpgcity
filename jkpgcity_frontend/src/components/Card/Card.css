@@ -1,0 +1,29 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    border-radius: 0;
+    width: 100%;
+    margin: auto;
+}
+
+.card-img {
+    width: 50%;
+    height: auto; /* Ensure image aspect ratio is maintained */
+    border-radius: 0;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+/* Target small and medium screen sizes: */
+@media (max-width: 768px) {
+    .card {
+        flex-direction: column;
+    }
+
+    .card-img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-app-service
+  namespace: labb-v1
+spec:
+  selector:
+    app: my-nodejs-app
+  ports:
+    - protocol: TCP
+      port: 3000
+      targetPort: 3000
